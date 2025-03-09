@@ -1,0 +1,3 @@
+"Hello, this is a sample text file." 
+"This file is used for our Python script." 
+"Git is a version control system." 
